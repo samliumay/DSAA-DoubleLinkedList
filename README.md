@@ -11,7 +11,7 @@
 
 ## What do you explain at superpeer?
 * I will explain all DoubleLinkedlists concept from scratch. 
-* I will write everythink by explaining one by one from scratch. 
+* I will write everything by explaining one by one from scratch. 
 * You will have Turkish and English versions of the lessons. Depends to you which one you will choose. 
 
 ## Run Locally
